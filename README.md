@@ -9,6 +9,9 @@ Built as a beginner project to learn Flask and full-stack development.
 - Dynamic salary-based balance tracking  
 - Export data as CSV  
 
+## Live Demo
+https://expense-tracker-1-sdmb.onrender.com/
+
 ## Tech Stack
 - Flask (Python)  
 - SQLite  
