@@ -15,6 +15,9 @@ Built as a beginner project to learn Flask and full-stack development.
 - HTML, Tailwind CSS  
 - Chart.js  
 
+## Screenshots
+![image alt](https://github.com/mananyadhingra-creator/expense-tracker/blob/b044e96f9f586681b2f6ee28c5540342998ae48c/Screenshot%202026-05-05%20185646.png)
+
 ## How to Run Locally
 
 ```bash
