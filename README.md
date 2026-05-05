@@ -18,6 +18,7 @@ Built as a beginner project to learn Flask and full-stack development.
 ## Screenshots
 ![image alt](https://github.com/mananyadhingra-creator/expense-tracker/blob/b044e96f9f586681b2f6ee28c5540342998ae48c/Screenshot%202026-05-05%20185646.png)
 ![image alt](https://github.com/mananyadhingra-creator/expense-tracker/blob/4a7ed2374936de874ac76045535dd5350f2edb73/Screenshot%202026-05-05%20191656.png)
+![image alt](https://github.com/mananyadhingra-creator/expense-tracker/blob/36e72955210023e42b4543956454cb7697df02ce/Screenshot%202026-05-05%20190359.png)
 
 ## How to Run Locally
 
